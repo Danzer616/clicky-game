@@ -2,8 +2,8 @@
 
 <h2>Overview</h2>
 <ul>
-  <li>The Clickster is a web game application where users click images of <em>adorable</em> puppies in order to earn points.  You win the game whenever you have clicked all 9 of the puppies.  The only catch is that the puppies move in their location with every click... </li>
-  <li>The puppy images were found at https://www.pexels.com/search/dog/.</li>
+  <li>The Clickster is a web game application where users click images of Blade Runner characters in order to earn points.  You win the game whenever you have clicked all 9 of the characters  The only catch is that the charcters move in their location with every click... </li>
+  
 </ul>
 
 <h2>Technologies Used:</h2>
@@ -20,7 +20,7 @@
 <h4>Components</h4>
 <ul>
   <li>Card
-      <p>The card component is where the puppy images are displayed.</p>
+      <p>The card component is where the character images are displayed.</p>
   </li>
   <li>Score
     <p>The score component is where the score is displayed.</p>
